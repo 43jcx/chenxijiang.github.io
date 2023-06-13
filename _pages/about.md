@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a graduate student of [IIP](http://iip.whu.edu.cn/)@WHU, majored in remote sensing during my undergraduate and graduate learning. My research interest expands from machine vision to human vision. I'm conducting psychological projects w.r.t. human cognitive behavior, including visual attention and visual working memory.
+I'm a second-year graduate student of [IIP](http://iip.whu.edu.cn/)@WHU, advised by [Prof. Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/index.html). My research interest expands from machine vision to human vision. Now, I'm working on psychological experiments w.r.t. human cognitive behavior, including visual attention and visual working memory.
 
 I enjoy reading, playing badminton, yoga, especially movies. I think movie is an elaborate art and so is research. Great arts seem to be like nature itself but they show careful thinking at closer observation. 
 
