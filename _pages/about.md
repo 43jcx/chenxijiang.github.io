@@ -29,7 +29,7 @@ I love reading, music, playing badminton, yoga, especially movies. I think movie
 
 # 🔥 News
 - *2023.01*: &nbsp;🎉🎉 2nd Price, "Optics Valley 0f China·Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling. 
-- *2022.02*: &nbsp;🎉🎉 . 
+<!-- - *2022.02*: &nbsp;🎉🎉 .  -->
 
 # 📝 Publications 
 Articles submitting and preparing...
