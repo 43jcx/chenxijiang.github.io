@@ -19,13 +19,16 @@ redirect_from:
 
 I'm a graduate student, studying in School of remote sensing and information engineering, WHU. I majored in remote sensing during my undergraduate and graduate learning and my research interest expands from machine vision to human vision. I'm conducting psychological projects w.r.t. human cognitive behavior, including visual attention and visual working memory.
 
-I love reading, music, playing badminton, yoga, especially movies. I think the movie is elaborate art and so is research; Great arts seem to be like nature itself but uncovering careful thinking at closer observation. 
+I love reading, music, playing badminton, yoga, especially movies. I think movie is an elaborate art and so is research; Great arts seem to be like nature itself but uncovering careful thinking at closer observation. 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+# 📖 Educations
+- *2021.06 - now*, graduate student, School of remote sensing and information engineering, Wuhan University. 
+- *2017.09 - 2021.06*, B. Eng., School of remote sensing and information engineering, Wuhan University. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.01*: &nbsp;🎉🎉 2nd Price, "Optics Valley 0f China·Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
@@ -45,14 +48,15 @@ Articles submitting and preparing...
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
-- *2021.06* Outstanding Graduate
-- *2020.05* "Hongtuchuangzhuan" Special Scholarship of WHU. 
-- *2019.05* National Scholarship. 
+# 💬 Standard Proposals
+- VC-38-M344, "Subjective quality assessment results of CfP", Han Zhu, **Chenxi Jiang**, Junxi Zhang, Zhenzhong Chen, Online, Jun. 2022.
+- VC-37-M321, "Draft of the subjective quality assessment test", Han Zhu, **Chenxi Jiang**, Zhe Zhang, Yingxue Zhang, Zhenzhong Chen, Online, Mar. 2022. (Adopted)
 
-# 📖 Educations
-- *2021.06 - now*, graduate student, School of remote sensing and information engineering, Wuhan University. 
-- *2017.09 - 2021.06*, B. Eng., School of remote sensing and information engineering, Wuhan University. 
+# 🎖 Honors and Awards
+- *2023.01* 2nd Price, "Optics Valley 0f China·Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling
+- *2021.06* Outstanding Graduate
+- *2020.05* "Hongtuchuangzhan" Special Scholarship of WHU
+- *2019.05* National Scholarship
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
