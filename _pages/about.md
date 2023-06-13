@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a graduate student, studying in School of remote sensing and information engineering, WHU. I majored in remote sensing during my undergraduate and graduate learning and my research interest expands from machine vision to human vision. I'm conducting psychological projects w.r.t. human cognitive behavior, including visual attention and visual working memory.
+I'm a graduate student, studying at [IIP](http://iip.whu.edu.cn/)@WHU. I majored in remote sensing during my undergraduate and graduate learning and my research interest expands from machine vision to human vision. I'm conducting psychological projects w.r.t. human cognitive behavior, including visual attention and visual working memory.
 
 I love reading, music, playing badminton, yoga, especially movies. I think movie is an elaborate art and so is research; Great arts seem to be like nature itself but they show careful thinking at closer observation. 
 
