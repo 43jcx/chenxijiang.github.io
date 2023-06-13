@@ -19,13 +19,13 @@ redirect_from:
 
 I'm a graduate student, studying in School of remote sensing and information engineering, WHU. I majored in remote sensing during my undergraduate and graduate learning and my research interest expands from machine vision to human vision. I'm conducting psychological projects w.r.t. human cognitive behavior, including visual attention and visual working memory.
 
-I love reading, music, playing badminton, yoga, especially movies. I think movie is an elaborate art and so is research; Great arts seem to be like nature itself but uncovering careful thinking at closer observation. 
+I love reading, music, playing badminton, yoga, especially movies. I think movie is an elaborate art and so is research; Great arts seem to be like nature itself but they show careful thinking at closer observation. 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2021.09 - now*,     graduate student in School of Remote Sensing and Information Engineering(https://rsgis.whu.edu.cn/), Wuhan University(https://en.whu.edu.cn/). 
-- *2017.09 - 2021.06*, B.Eng. in School of Remote Sensing and Information Engineering(https://rsgis.whu.edu.cn/), Wuhan University(https://en.whu.edu.cn/). 
+- *2021.09 - now*,     graduate student in [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), [Wuhan University](https://en.whu.edu.cn/). 
+- *2017.09 - 2021.06*, B.Eng. in [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), [Wuhan University](https://en.whu.edu.cn/). 
 
 # 🔥 News
 - *2023.01*: &nbsp;🎉🎉 2nd Price, "Optics Valley 0f China·Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling. 
