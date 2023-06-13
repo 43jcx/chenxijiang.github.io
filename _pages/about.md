@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a graduate student of [IIP](http://iip.whu.edu.cn/)@WHU, majored in remote sensing during my undergraduate and graduate learning. My research interest expands from machine vision to human vision. I'm conducting psychological projects w.r.t. human cognitive behavior, including visual attention and visual working memory.
 
-I enjoy reading, music, playing badminton, yoga, especially movies. I think movie is an elaborate art and so is research; Great arts seem to be like nature itself but they show careful thinking at closer observation. 
+I enjoy reading, music, playing badminton, yoga, especially movies. I think movie is an elaborate art and so is research. Great arts seem to be like nature itself but they show careful thinking at closer observation. 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -28,11 +28,11 @@ I enjoy reading, music, playing badminton, yoga, especially movies. I think movi
 - *2017.09 - 2021.06*, B.Eng. in [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), [Wuhan University](https://en.whu.edu.cn/). 
 
 # 🔥 News
-- *2023.01*: &nbsp;🎉🎉 2nd Price, "Optics Valley 0f China·Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling. 
+- *2023.01*: &nbsp;🎉🎉 2nd Price, "Optics Valley Of China·Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling. 
 <!-- - *2022.02*: &nbsp;🎉🎉 .  -->
 
 # 📝 Publications 
-Articles submitting and preparing...
+Articles submitting and work preparing...
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
