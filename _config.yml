@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chenxi Jiang"
+title                    : "Chenxi JIANG"
 description              : "Vast world and little me. "
 repository               : "https://43jcx.github.io/chenxijiang.github.io/"
 google_scholar_stats_use_cdn : true
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "cxjiang@whu.edu.cn" 
+  email            : "chenxi.j43@gmail.com" 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
