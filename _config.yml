@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenxi Jiang"
   avatar           : "images/jcx512.png"
-  bio              : "Institute for artificial Intelligence and machine Perception(http://iip.whu.edu.cn/)"
+  bio              : "[Institute for artificial Intelligence and machine Perception](http://iip.whu.edu.cn/)"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "cxjiang@whu.edu.cn" 
+  email            : "[cxjiang@whu.edu.cn](cxjiang@whu.edu.cn)" 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
