@@ -55,7 +55,7 @@ Chenxi Jiang, Zhenzhong Chen, Jeremy M. Wolfe. The Impact of Scene Categories on
 - VC-37-M321, "Draft of the subjective quality assessment test", Han Zhu, **Chenxi Jiang**, Zhe Zhang, Yingxue Zhang, Zhenzhong Chen, Online, Mar. 2022. (Adopted)
 
 # 🎖 Honors and Awards
-- *2023.01* 2nd Price, "Optics Valley 0f China·Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling
+- *2023.01* 2nd Price, "Optics Valley Of China·Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling
 - *2021.09* 1st Prize of Freshman Scholarship
 - *2021.06* Outstanding Graduate
 - *2020.05* "Hongtuchuangzhan" Special Scholarship
