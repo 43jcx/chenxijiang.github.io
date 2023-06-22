@@ -33,7 +33,7 @@ I enjoy reading, playing badminton, yoga, especially movies. I think movie is an
 
 # 📝 Publications 
 Articles submitting and work preparing...
-<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
 The Impact of Scene Categories on Task-driven Viewing Behavior for Aerial Images. (to be submitted)
 **Chenxi Jiang**, Zhenzhong Chen, Jeremy M. Wolfe
 </div>
