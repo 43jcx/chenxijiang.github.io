@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a third-year graduate student of [IIP](http://iip.whu.edu.cn/)@WHU, advised by [Prof. Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/index.html). I also work closely with [Prof. Jeremy M. Wolfe](https://eye.hms.harvard.edu/jeremywolfe) of Harvard Univiersity. My research interest expands from machine vision to human vision. Now, I'm working on psychological experiments w.r.t. human cognitive behavior, including visual attention and visual working memory.
 
-I enjoy reading, playing badminton, yoga, especially movies. I view movie is an intricate art and so is research. Great arts seem to be natural, with excellent thoughts and craftsmanship at closer observation. 
+I enjoy reading, playing badminton, practicing yoga, especially watching movies. I view both movies and research as intricate arts. Great arts seem to be natural, with excellent thoughts and craftsmanship at closer observation. 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
