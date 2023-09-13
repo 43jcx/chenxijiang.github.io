@@ -33,7 +33,7 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 
 # 📝 Publications 
 <div class='paper-box-text' markdown="1">
-Chenxi Jiang, Zhenzhong Chen, Jeremy M. Wolfe. The Impact of Scene Categories on Task-driven Viewing Behavior for Aerial Images. (To be submitted)
+Chenxi Jiang, Zhenzhong Chen, Jeremy M. Wolfe. Towards viewing behavior for aerial scene categorization. (Submitted to _Cognitive Research: Principles and Implications_)[Project URL](https://osf.io/4n3rc/).
 </div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
