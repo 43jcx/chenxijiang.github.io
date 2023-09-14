@@ -66,9 +66,9 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 
 # 🎖 Honors and Awards
 - *2023.01* 2nd Price, "Optics Valley Of China·Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling
-- *2021.09* 1st Prize of Freshman Scholarship
-- *2021.06* Outstanding Graduate
-- *2020.05* "Hongtuchuangzhan" Special Scholarship
+- *2021.09* 1st Prize, Freshman Scholarship
+- *2021.06* Outstanding Graduate, Wuhan University
+- *2020.05* 1st Prize, "Hongtuchuangzhan (Macro-vision Innovation)" Special Scholarship
 - *2019.05* National Scholarship
 
 <!-- # 💬 Invited Talks
