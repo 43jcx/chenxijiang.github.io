@@ -69,7 +69,7 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 - *2021.09* 1st Prize, Freshman Scholarship
 - *2021.06* Outstanding Graduate, Wuhan University
 - *2020.05* 1st Prize, "Hongtuchuangzhan (Macro-vision Innovation)" Special Scholarship
-- *2019.05* National Scholarship
+- *2019.05* **National Scholarship**
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
