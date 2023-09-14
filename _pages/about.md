@@ -33,13 +33,10 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 
 # 📝 Publications 
 <div class='paper-box-text' markdown="1">
-[1]	Jiang, C., Chen Z. and Wolfe, M. J. Towards viewing behavior for aerial scene categorization (Submitted to _Cognitive Research: Principles and Implications_). [Project URL](https://osf.io/4n3rc/).
-[2]	Chen, Z., Zhang, K., Cai, H., Ding, X., Jiang, C., Chen, Z. Audio-visual saliency prediction for movie viewing in immersive environment: Dataset and benchmarks. (Under revision)
-[3]	Cai, H., Zhang, K., Chen, Z., Jiang, C., Chen, Z. Towards saliency prediction for first-person view UAV videos: Benchmarks and challenges. (Under review)
-[4]	Li, Y., Zhang, K., Chen, Z., Ouyang, W., Cui, M., Jiang, C., Yang, D., Chen, Z. Towards object tracking for quadruped robots. (Under revision)
-[5]	VC-37-M321, “Draft of the subjective quality assessment test”, Han Zhu, Chenxi Jiang, Zhe Zhang, Yingxue Zhang, Zhenzhong Chen, Online, Mar. 2022. (Standard proposal)
-[6]	VC-38-M344, “Subjective quality assessment results of CfP”, Han Zhu, Chenxi Jiang, Junxi Zhang, Zhenzhong Chen, Online, Jun. 2022. (Standard proposal)
-
+[1]	**Jiang, C.**, Chen Z. and Wolfe, M. J. Towards viewing behavior for aerial scene categorization (Submitted to _Cognitive Research: Principles and Implications_). [Project URL](https://osf.io/4n3rc/).
+[2]	Chen, Z., Zhang, K., Cai, H., Ding, X., **Jiang, C.**, Chen, Z. Audio-visual saliency prediction for movie viewing in immersive environment: Dataset and benchmarks. (Under revision)
+[3]	Cai, H., Zhang, K., Chen, Z., **Jiang, C.**, Chen, Z. Towards saliency prediction for first-person view UAV videos: Benchmarks and challenges. (Under review)
+[4]	Li, Y., Zhang, K., Chen, Z., Ouyang, W., Cui, M., **Jiang, C.**, Yang, D., Chen, Z. Towards object tracking for quadruped robots. (Under revision)
 
 </div>
 
@@ -59,7 +56,7 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 
 # 💻 Standard Proposals
 - VC-38-M344, "Subjective quality assessment results of CfP", Han Zhu, **Chenxi Jiang**, Junxi Zhang, Zhenzhong Chen, Online, Jun. 2022.
-- VC-37-M321, "Draft of the subjective quality assessment test", Han Zhu, **Chenxi Jiang**, Zhe Zhang, Yingxue Zhang, Zhenzhong Chen, Online, Mar. 2022. (Adopted)
+- VC-37-M321, "Draft of the subjective quality assessment test", Han Zhu, **Chenxi Jiang**, Zhe Zhang, Yingxue Zhang, Zhenzhong Chen, Online, Mar. 2022.
 
 # 🎖 Honors and Awards
 - *2023.01* 2nd Price, "Optics Valley Of China·Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling
