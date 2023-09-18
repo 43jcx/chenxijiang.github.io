@@ -61,8 +61,8 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 💻 Standard Proposals
-- VC-38-M344, "Subjective quality assessment results of CfP", Han Zhu, **Chenxi Jiang**, Junxi Zhang, Zhenzhong Chen, Online, Jun. 2022.
-- VC-37-M321, "Draft of the subjective quality assessment test", Han Zhu, **Chenxi Jiang**, Zhe Zhang, Yingxue Zhang, Zhenzhong Chen, Online, Mar. 2022.
+- VC-38-M344, "Subjective quality assessment results of CfP", Zhu, H., **Jiang, C.**, Zhang, J., Chen, Z., Online, Jun. 2022.
+- VC-37-M321, "Draft of the subjective quality assessment test", Zhu, H., **Jiang, C.**, Zhang, Z., Zhang, Y., Chen, Z., Online, Mar. 2022.
 
 # 🎖 Honors and Awards
 - *2023.01* 2nd Price, "Optics Valley Of China·Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling
