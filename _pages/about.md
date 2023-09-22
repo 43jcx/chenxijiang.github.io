@@ -75,7 +75,7 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 
 # 💬 Beyond research
 - I've always dreamt of directing a movie.
-- Animals are our beloved friends. PS: I have two cute cats. See the page icon!
+- I love animals. PS: I have two cute cats. See the page icon!
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
