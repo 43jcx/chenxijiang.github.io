@@ -75,7 +75,7 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 
 # 💬 Beyond research
 - I've always dreamed of directing a movie, and I came close (a little bit) to realizing that dream once. I wrote a script that Wuhan University recommended for the 2020 Walt Disney Scholarship Program.
-- Animals are our beloved friends. I participated in the "Life Care, Humanitarian Education" Charity Project, where I conducted a lecture for preschoolers on the importance of correctly treating and protecting small animals. Tips: I have two cute cats. See the page icon!
+- Animals are our beloved friends. I participated in the "Life Care, Humanitarian Education" Charity Project, where I conducted a lecture for preschoolers on the importance of correctly treating and protecting small animals. PS: I have two cute cats. See the page icon!
 - 
 
 <!-- # 💬 Invited Talks
