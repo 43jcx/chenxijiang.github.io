@@ -33,7 +33,7 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 
 # 📝 Publications 
 <div class='paper-box-text' markdown="1">
-[1]	**Jiang, C.**, Chen Z. and Wolfe, J. M., Towards viewing behavior for aerial scene categorization, Cognitive Research: Principles and Implications. (Under review) [_Project data & code_](https://osf.io/4n3rc/).
+[1]	**Jiang, C.**, Chen Z. and Wolfe, J. M., Towards viewing behavior for aerial scene categorization, Cognitive Research: Principles and Implications. (Under review) [_Data & Codes_](https://osf.io/4n3rc/).
 </div>
 <div class='paper-box-text' markdown="1">  
 [2]	Chen, Z., Zhang, K., Cai, H., Ding, X., **Jiang, C.**, Chen, Z., Audio-visual saliency prediction for movie viewing in immersive environment: Dataset and benchmarks, J. Vis. Commun. Image Represent. (Under revision)
