@@ -74,8 +74,8 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 - *2019.05* **National Scholarship**
 
 # 💬 Beyond research
-- I've always dreamt of directing a movie, and I came close (a little bit) to realizing that dream once. I was once the president of Nanyi Drama Club, working with 20+ members to depict the challenges of launching a satellite in a drama competition. Plus, I wrote a script that Wuhan University recommended for the 2020 Walt Disney Scholarship Program.
-- Animals are our beloved friends. I contributed to the "Life Care, Humanitarian Education" Charity Project, where I conducted a lecture for preschoolers on the importance of correctly treating and protecting small animals. PS: I have two cute cats. See the page icon!
+- I've always dreamt of directing a movie.
+- Animals are our beloved friends. PS: I have two cute cats. See the page icon!
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
