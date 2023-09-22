@@ -32,7 +32,7 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 <!-- - *2022.02*: &nbsp;🎉🎉 .  -->
 
 # 📝 Publications 
-- Now, I'm working on the influence of semantics on the encoding and retrieval of visual working memory.
+- Now, I'm working on exploring the influence of semantics on the encoding and retrieval of visual working memory.
 
 <div class='paper-box-text' markdown="1">
 [1]	**Jiang, C.**, Chen Z. and Wolfe, J. M., Towards viewing behavior for aerial scene categorization, Cognitive Research: Principles and Implications. (Under review) [_Data & Codes_](https://osf.io/4n3rc/).
