@@ -41,7 +41,7 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 [2]	Chen, Z., Zhang, K., Cai, H., Ding, X., **Jiang, C.**, Chen, Z., Audio-visual saliency prediction for movie viewing in immersive environment: Dataset and benchmarks, _J. Vis. Commun. Image Represent._ (Under revision)
 </div>
 <div class='paper-box-text' markdown="1">
-[3]	[3]	Li, Y., Zhang, K., Chen, Z., Ouyang, W., Cui, M., **Jiang, C.**, Yang, D. & Chen, Z. (In press). Towards object tracking for quadruped robots. _J. Vis. Commun. Image Represent._, 103958.
+[3]	Li, Y., Zhang, K., Chen, Z., Ouyang, W., Cui, M., **Jiang, C.**, Yang, D. & Chen, Z. (In press). Towards object tracking for quadruped robots. _J. Vis. Commun. Image Represent._, 103958.
 </div>
 
 
