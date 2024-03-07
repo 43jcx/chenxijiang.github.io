@@ -38,7 +38,7 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 [1]	**Jiang, C.**, Chen Z. and Wolfe, J. M., Towards viewing behavior for aerial scene categorization, Cognitive Research: Principles and Implications. (Minor revision) [_Data & Codes_](https://osf.io/4n3rc/).
 </div>
 <div class='paper-box-text' markdown="1">  
-[2]	Chen, Z., Zhang, K., Cai, H., Ding, X., **Jiang, C.**, Chen, Z., Audio-visual saliency prediction for movie viewing in immersive environment: Dataset and benchmarks, _J. Vis. Commun. Image Represent._ (Under revision)
+[2]	Chen, Z., Zhang, K., Cai, H., Ding, X., **Jiang, C.**, & Chen, Z. (2024). Audio-visual saliency prediction for movie viewing in immersive environments: Dataset and benchmarks. Journal of Visual Communication and Image Representation, 104095.[Paper](https://doi.org/10.1016/j.jvcir.2024.104095)
 </div>
 <div class='paper-box-text' markdown="1">
 [3]	Li, Y., Zhang, K., Chen, Z., Ouyang, W., Cui, M., **Jiang, C.**, ... & Chen, Z. (2023). Towards object tracking for quadruped robots. Journal of Visual Communication and Image Representation, 97, 103958.[Paper](https://doi.org/10.1016/j.jvcir.2023.103958)
