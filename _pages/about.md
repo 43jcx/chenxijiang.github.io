@@ -28,6 +28,7 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 - *2017.09 - 2021.06*, B.Eng. in [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/English/Home.htm), [Wuhan University](https://en.whu.edu.cn/). 
 
 # 🔥 News
+- *2024.03*: &nbsp;🎉🎉 One paper on aerial scene perception is accepted. 
 - *2023.01*: &nbsp;🎉🎉 2nd Price, "Optics Valley Of China·Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling. 
 <!-- - *2022.02*: &nbsp;🎉🎉 .  -->
 
