@@ -35,7 +35,7 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 - Now, I'm working on exploring the influence of semantics on visual working memory.
 
 <div class='paper-box-text' markdown="1">
-[1]	**Jiang, C.**, Chen Z. and Wolfe, J. M., Towards viewing behavior for aerial scene categorization, Cognitive Research: Principles and Implications. (Minor revision) [_Data & Codes_](https://osf.io/4n3rc/).
+[1]	**Jiang, C.**, Chen Z. and Wolfe, J. M., Towards viewing behavior for aerial scene categorization, Cognitive Research: Principles and Implications. (Accepted) [_Data & Codes_](https://osf.io/4n3rc/).
 </div>
 <div class='paper-box-text' markdown="1">  
 [2]	Chen, Z., Zhang, K., Cai, H., Ding, X., **Jiang, C.**, & Chen, Z. (2024). Audio-visual saliency prediction for movie viewing in immersive environments: Dataset and benchmarks. Journal of Visual Communication and Image Representation, 104095. [Paper](https://doi.org/10.1016/j.jvcir.2024.104095)
