@@ -36,13 +36,13 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 - Now, I'm working on exploring the influence of semantics on visual working memory.
 
 <div class='paper-box-text' markdown="1">
-[1]	**Jiang, C.**, Chen, Z. & Wolfe, J. M. (2024). Toward viewing behavior for aerial scene categorization. _Cognitive Research: Principles and Implications_, 9(1),  1-17. [_Paper_](https://doi.org/10.1186/s41235-024-00541-1) [_Data & Codes_](https://osf.io/4n3rc/).
+[1]	**Jiang, C.**, Chen, Z. & Wolfe, J. M. (2024). Toward viewing behavior for aerial scene categorization. _Cognitive Research: Principles and Implications_, 9(1), 1-17. [_Paper_](https://doi.org/10.1186/s41235-024-00541-1), [_Data & Codes_](https://osf.io/4n3rc/).
 </div>
 <div class='paper-box-text' markdown="1">  
-[2]	Chen, Z., Zhang, K., Cai, H., Ding, X., **Jiang, C.**, & Chen, Z. (2024). Audio-visual saliency prediction for movie viewing in immersive environments: Dataset and benchmarks. Journal of Visual Communication and Image Representation, 104095. [Paper](https://doi.org/10.1016/j.jvcir.2024.104095)
+[2]	Chen, Z., Zhang, K., Cai, H., Ding, X., **Jiang, C.**, & Chen, Z. (2024). Audio-visual saliency prediction for movie viewing in immersive environments: Dataset and benchmarks. Journal of Visual Communication and Image Representation, 104095. [_Paper_](https://doi.org/10.1016/j.jvcir.2024.104095)
 </div>
 <div class='paper-box-text' markdown="1">
-[3]	Li, Y., Zhang, K., Chen, Z., Ouyang, W., Cui, M., **Jiang, C.**, ... & Chen, Z. (2023). Towards object tracking for quadruped robots. Journal of Visual Communication and Image Representation, 97, 103958. [Paper](https://doi.org/10.1016/j.jvcir.2023.103958)
+[3]	Li, Y., Zhang, K., Chen, Z., Ouyang, W., Cui, M., **Jiang, C.**, ... & Chen, Z. (2023). Towards object tracking for quadruped robots. Journal of Visual Communication and Image Representation, 97, 103958. [_Paper_](https://doi.org/10.1016/j.jvcir.2023.103958)
 </div>
 
 
