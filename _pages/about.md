@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[切换到中文版本](chinese.html)
+% [切换到中文版本](chinese.html)
 
 I'm a third-year master's student, advised by [Prof. Zhenzhong Chen](http://iip.whu.edu.cn/~zzchen/index.html). I also work closely with [Prof. Jeremy M. Wolfe](https://eye.hms.harvard.edu/jeremywolfe) of Harvard Medical School. My research interest expands from machine vision to human vision. Now, I'm working on psychological experiments w.r.t. human cognitive behavior, including visual attention and visual working memory.
 
