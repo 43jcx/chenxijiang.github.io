@@ -65,7 +65,7 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 - Zhu, H., **Jiang, C.**, Zhang, Z., Zhang, Y., Chen, C., VC-37-M321, “Draft of the subjective quality assessment test”, Online, Mar. 2022. (IEEE 1857 Standard proposal)
 - Zhu, H., **Jiang, C.**, Zhang, J., Chen, Z., VC-38-M344, “Subjective quality assessment results of CfP”, Online, Jun. 2022. (IEEE 1857 Standard proposal)
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - *2023.01* 2nd Price, "Optics Valley Of China·Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling
 - *2021.09* 1st Prize, Freshman Scholarship
 - *2021.06* Outstanding Graduate, Wuhan University
