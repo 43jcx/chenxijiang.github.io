@@ -62,7 +62,7 @@ I enjoy reading, playing badminton, practicing yoga, especially watching movies.
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 💻 Standard Proposals
-- Zhu, H., **Jiang, C.**, Zhang, Z., Zhang, Y., Chen, C., VC-37-M321, “Draft of the subjective quality assessment test”, Online, Mar. 2022. (IEEE 1857 Standard proposal)
+- Zhu, H., **Jiang, C.**, Zhang, Z., Zhang, Y., Chen, Z., VC-37-M321, “Draft of the subjective quality assessment test”, Online, Mar. 2022. (IEEE 1857 Standard proposal)
 - Zhu, H., **Jiang, C.**, Zhang, J., Chen, Z., VC-38-M344, “Subjective quality assessment results of CfP”, Online, Jun. 2022. (IEEE 1857 Standard proposal)
 
 # 🥇 Honors and Awards
